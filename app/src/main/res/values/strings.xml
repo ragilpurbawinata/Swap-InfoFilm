@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">InfoFilm</string>
+
+    <string name="fantansic">
+        "FANTASTIC BEASTS AND WHERE TO FIND THEM" \n\n
+
+Jenis Film : Adventure, Family, Fantasy \n
+Produser   : David Heyman, Lionel Wigram, J.K. Rowling \n
+Sutradara  : David Yates \n
+Penulis    : J.K. Rowling \n
+Produksi   : Warner Bros. Pictures \n\n
+
+Sinopsis : \n
+Tujuh puluh tahun sebelum Harry Potter membaca buku pelajaran yang ditulis oleh
+Newt Scamander (Eddie Redmayne) di Hogwarts, sang penulis berkelana mengunjungi
+perkumpulan rahasia penyihir di kota New York. \n\n
+
+Spin-off film Harry Potter yang berlatar belakang di tahun 1926 ini menceritakan
+kisah perjalanan Newt yang bepergian keliling dunia untuk bertemu dan
+mendokumentasikan hewan-hewan sihir. Akan tetapi ketika ia bersinggah di kota
+New York sebelum mengakhiri perjalanannya, Newt tidak sengaja melepaskan
+hewan-hewan sihir yang disimpannya di dalam koper sihir miliknya di dunia
+No-Maj (manusia tanpa kemampuan sihir).
+    </string>
+
+    <string name="doctor">
+        "DOCTOR STRANGE" \n\n
+
+Jenis Film : Action, Adventure, Fantasy \n
+Produser : Kevin Feige \n
+Sutradara : Scott Derrickson \n
+Penulis : Thomas Dean Donnelly, Joshua Oppenheimer, Jon Spaihts \n
+Produksi : Walt Disney Pictures \n\n
+
+Sinopsis : \n
+Hidup Stephen Vincent Strange (Benedict Cumberbatch), seorang doktor bedah
+yang pintar namun sombong, mendadak berubah drastis. Sebuah kecelakaan mobil
+membuat kemampuan tangannya menjadi sangat terbatas. Bertekad untuk menyembuhkan
+kondisinya, ia pun berpetualang mencari obat untuk memulihkan tangannya.\n\n
+
+Perjalanan tersebut mempertemukan sang doktor bedah dengan penyihir bernama
+The Ancient One (Tilda Swinton), yang kemudian mengangkat Strange menjadi murid,
+dengan tujuan menjadikan ia sebagai pelindung alam manusia. Kali ini Strange harus
+mengesampingkan egonya, dan menggunakan segala kemampuannya untuk menjadi perantara
+antara dimensi manusia dan dimensi lain.
+    </string>
+
+    <string name="dont">
+        "DON'T BREATHE" \n\n
+
+Jenis Film : Horror, Thriller \n
+Produser   : Joseph Drake, Sam Raimi, Robert Tapert, J.r. Young \n
+Sutradara  : Fede Alvarez \n
+Penulis    : Fede Alvarez, Rodo Sayagues \n
+Produksi   : Columbia Pictures \n\n
+
+Sinopsis : \n
+Rocky (Jane Levy) tumbuh di keluarga yang kurang harmonis. Ia membuat janji dengan
+adik perempuannya untuk membawanya pergi dari keluarganya yang disfunsional. Sadar
+bahwa ia kekurangan uang untuk melakukannya, ia terpaksa mengikuti rencana kekasihnya,
+Money (Daniel Zovatto), dan teman mereka, Alex (Dylan Minnette), untuk merampok rumah orang-orang kaya.\n\n
+
+Suatu hari, Money mendapat info mengenai seorang Veteran militer yang buta (Stephen Lang),
+yang konon mendapatkan sejumlah uang ganti rugi setelah anaknya meninggal akibat kecelakaan.
+Anak-anak itu pun mencoba membobol rumah sang veteran. Hanya saja, semua menjadi tidak terkendali,
+saat mereka mengetahui bahwa sang veteran bukanlah sekedar orang buta yang tidak berdaya.
+    </string>
+
+    <string name="bfg">
+        "THE BFG" \n\n
+
+Jenis Film : Adventure, Family, Fantasy \n
+Produser : Sam Mercer, Frank Marshall, Steven Spielberg \n
+Sutradara : Steven Spielberg \n
+Penulis : Melissa Mathison \n
+Produksi : Walt Disney Pictures \n\n
+
+Sinopsis : \n
+Gadis berusia 10 tahun, Sophie (Ruby Barnhill), sudah siap ikut dalam petualangan
+seumur hidup saat bertemu dengan Big Friendly Giant (Mark Rylance). Meskipun merasa
+terintimidasi oleh penampilannya, Sophie segera tersadar bahwa raksasa setinggi 24
+kaki ini cukup lembut dan memesona.\n\n
+
+Seiring tumbuhnya persahabatan mereka, kehadiran Sophie ternyata menarik perhatian
+dari Bloodbottler (Bill Hader), Fleshlumpeater (Jemaine Clement), dan raksasa lainnya
+yang lebih besar dan senang memakan manusia. Kini Sophie dan BFG berusaha sekeras tenaga
+untuk menyelamatkan persahabatan dan nyawa mereka.
+    </string>
+
+    <string name="jack">
+        "JACK REACHER : NEVER GO BACK" \n\n
+
+Jenis Film : Action, Adventure, Crime \n
+Produser : Don Granger, Tom Cruise \n
+Sutradara : Edward Zwick \n
+Penulis : Marshall Herskovitz, Edward Zwick, Richard Wenk \n
+Produksi : Paramount Pictures\n\n
+
+Sinopsis : \n
+Mengambil setting empat tahun setelah petualangan di film pertama.
+Jack Reacher (Tom Cruise) kembali ke markas dari unit ia dulu bekerja.
+Namun disana, ia dituduh terlibat atas pembunuhan yang terjadi 16 tahun yang lalu.
+Ia juga menemukan bahwa atasannya terdahulu, Susan Turner (Cobie Smulders),
+ditangkap atas tuduhan pengkhianatan.\n\n
+
+Yakin bahwa atasannya tidak bersalah, Jack berniat untuk membebaskan Susan
+dari penjara, dan mengungkap kebenaran dibalik konspirasi pemerintah yang
+melibatkan mereka. Dalam pelarian, Jack baru mengetahui kalau ia hanyalah
+bagian kecil dari sebuah rahasia besar, yang berhubungan dengan masa lalunya.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
